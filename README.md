@@ -6,7 +6,7 @@ Done for React and JavaScript Practice!
 ## v1.1: Quick Update: Leaderboard
 - Added a leaderboard functionality so players can save their scores locally
 - Minor UI Changes
-BUGFIXES:
+### BUGFIXES:
 - Sped up loading times by removing React Strict Mode
 
 ## v1.0: Initial Upload
